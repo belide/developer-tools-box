@@ -64,3 +64,6 @@ npm run lint
 All credits to authors of packages and tools used in the project.
 
 \* This template is inspired by [electron-vue](https://github.com/SimulatedGREG/electron-vue)
+
+
+https://simulatedgreg.gitbooks.io/electron-vue/content/cn/
