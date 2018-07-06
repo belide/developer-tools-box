@@ -1,10 +1,10 @@
 {
-  "author": "Muhammad Ubaid Raza <mubaidr@gmail.com>",
+  "author": "anytao <twang281314@gmail.com>",
   "bugs": {
-    "url": "https://github.com/mubaidr/vue-electron-template/issues"
+    "url": "https://github.com/twang281314/developer-tools-box/issues"
   },
   "build": {
-    "appId": "org.mubaidr.vue-electron-template",
+    "appId": "org.vue-electron-template",
     "directories": {
       "output": "build"
     },
@@ -106,7 +106,7 @@
   "name": "vue-electron-template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mubaidr/vue-electron-template.git"
+    "url": "git+https://github.com/twang281314/developer-tools-box.git"
   },
   "scripts": {
     "build": "npm run pack && electron-builder",
